@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ChatBot</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="company_profile_photo">Company Profile Photo</string>
+    <string name="user_profile_photo">User Profile Photo</string>
+    <string name="end_conversation">"Görüşmek Üzere..."</string>
 </resources>
